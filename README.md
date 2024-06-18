@@ -4,3 +4,4 @@ Solutions to Paul Hudson's [100 Days of Swift projects](https://www.hackingwiths
 Projects                                                                                                                                                          
 ---   
 - [Project 1](Project1) - Storm Viewer
+- [Project 2](Project2) - Guess the Flag
