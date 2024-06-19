@@ -14,4 +14,6 @@ Projects
 - [Project 4](Project4) - Easy Browser
   
 - [Project 5](Project5) - Word Scramble
+
+- [Project 6](Project6b) - Auto Layout
   
