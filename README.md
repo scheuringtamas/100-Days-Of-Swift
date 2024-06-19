@@ -7,3 +7,4 @@ Projects
 - [Project 2](Project2) - Guess the Flag
 - [Project 3](Project3) - Social Media
 - [Milestone: Projects 1-3](WorldFlags) - World Flags
+- [Project 4](Project4) - Easy Browser
