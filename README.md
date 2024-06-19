@@ -5,4 +5,4 @@ Projects
 ---   
 - [Project 1](Project1) - Storm Viewer
 - [Project 2](Project2) - Guess the Flag
-- [Project 3](Project3) - Project 3
+- [Project 3](Project3) - Social Media
