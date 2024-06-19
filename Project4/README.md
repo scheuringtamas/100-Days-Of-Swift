@@ -1,4 +1,4 @@
-# Project 3 - Easy Browser
+# Project 4 - Easy Browser
 
 This project involves building a simple iOS web browser using WebKit, featuring basic navigation controls and a website blocking mechanism for unauthorized URLs.
 
