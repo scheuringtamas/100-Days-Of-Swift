@@ -18,4 +18,6 @@ Projects
 - [Project 6](Project6b) - Auto Layout
 
 - [Milestone: Projects 4-6](https://github.com/scheuringtamas/100-Days-Of-Swift/tree/main/Milestone%3A%20Projects%204-6) - Shopping List
+
+- [Project 7](Project7) - Whitehouse Petitions
   
