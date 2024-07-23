@@ -21,3 +21,7 @@ There’s a special method that can create one string from an array, by stitchin
 let list = shoppingList.joined(separator: "\n")
 
 That will create a new list constant that is a regular string, with each shopping list item separated by “\n” – that’s Swift’s way of representing a new line.
+
+## Screenshots
+
+<img src="Screenshots/ShoppingList.png" width="300" />
