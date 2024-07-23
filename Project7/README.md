@@ -8,7 +8,7 @@ https://www.hackingwithswift.com/read/7/6/wrap-up
 
  UIBarButtonItem, Codable, UITabBarController, UIStoryboard, download JSON using Swift’s Data type, then use the Codable protocol to convert that data into Swift objects we defined-
 
-  ## Challenges
+## Challenges
 From [Hacking with Swift](https://www.hackingwithswift.com/read/7/6/wrap-up):
 >1. Add a Credits button to the top-right corner using UIBarButtonItem. When this is tapped, show an alert telling users the data comes from the We The People API of the Whitehouse.
 >2. Let users filter the petitions they see. This involves creating a second array of filtered items that contains only petitions matching a string the user entered. Use a UIAlertController with a text field to let them enter that string. This is a tough one, so I’ve included some hints below if you get stuck.
